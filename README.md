@@ -1,5 +1,6 @@
-## OLá eu sou o Davi Teodoro😁
-atualmente cursando desenvolvimento de sistemas na ETEC Bento Quirino,
+## OLá eu sou o Davi Teodoro
+Tecnico em Desenvolvimento de Sistemas :ETEC Bento Quirino,
+Cursando ADS(Análise Desenvolvimento de Sistemas) pela Estácio  
 aprendendo front-end, back-end e banco de dados e como se conectam!!
 ## 
 <div align="left">
